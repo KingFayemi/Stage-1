@@ -1,80 +1,79 @@
 
 
 			body {	font-family: roboto;
-					background-color: #03030F;
-					max-width: 1440px;
-					max-height: 1024px;
-					position: static;
-					color: white;} 
+				background-color: #03030F;
+				max-width: 1440px;
+				max-height: 1024px;
+				position: static;
+				color: white;} 
 
 			h1 {
-					font-family: roboto;
-					font-style: bold;
-					font-size: 96px;
+				font-family: roboto;
+				font-style: bold;
+				font-size: 96px;
 
-					line-height: 113px;
-					text-align: center;
-					margin: auto;
-					position: absolute;
-					top:450px;
-					left:232px;} 
+				line-height: 113px;
+				text-align: center;
+				margin: auto;
+				position: absolute;
+				top:450px;
+				left:232px;} 
 
 			hr {
-					width: 120px;
-					border-color: white;
-					border-style: solid;
-					border-radius: 20px;
-					border-width: 4px;
-					margin: auto;
-					position:absolute;
-					left: 655px;
-					top: 585.79px;
-					} 
+				width: 120px;
+				border-color: white;
+				border-style: solid;
+				border-radius: 20px;
+				border-width: 4px;
+				margin: auto;
+				position:absolute;
+				left: 655px;
+				top: 585.79px;} 
 
 			p {
-					font-family:roboto;
-					font-style: none;
-					font-size: 24px;
+				font-family:roboto;
+				font-style: none;
+				font-size: 24px;
 
-					line-height: 28px;
-					text-align: center;
-					margin: auto;
-					position: absolute;
-					top:632px;
-					left:233px;} 
+				line-height: 28px;
+				text-align: center;
+				margin: auto;
+				position: absolute;
+				top:632px;
+				left:233px;} 
 
 			button {
-					font-size: 36px;
-				    font-family: roboto;
-				    font-style: bold;
-				    text-align: center;
-				    text-decoration: none;
+				font-size: 36px;
+				font-family: roboto;
+				font-style: bold;
+				text-align: center;
+				text-decoration: none;
 
-				    height: 65px;
-				    width:268px;
-				    border-color: white;
-				    border-style: solid;
-				    border-radius: 10px;
-				    border-width: 2px;
-				    position: absolute;
-					top:791px;
-					left:586px;
+				height: 65px;
+				width:268px;
+				border-color: white;
+				border-style: solid;
+				border-radius: 10px;
+				border-width: 2px;
+				position: absolute;
+				top:791px;
+				left:586px;
 				    
-				    display: inline-block;
-				    background-color: #03030F;
-				    margin: auto; 
-				    color: white;
-				    box-sizing: border-box;} 
+				display: inline-block;
+				background-color: #03030F;
+				margin: auto; 
+				color: white;
+				box-sizing: border-box;} 
 
 		.profile {
-					border-radius: 100%;
-				    padding: 0px;
-				    display: block;
-				    width: 289px;
-				    height: 289px;
-				    margin: auto;
-				    position: absolute;
-				    top:102px;
-				    left:575px;} 
+				border-radius: 100%;
+				padding: 0px;
+				display: block;
+				width: 289px;
+				height: 289px;
+				margin: auto;
+				position: absolute;
+				top:102px;
+				left:575px;} 
  
 		
